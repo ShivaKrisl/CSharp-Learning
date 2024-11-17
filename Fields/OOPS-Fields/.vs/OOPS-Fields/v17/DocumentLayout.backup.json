@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft\\C#\\Codes\\OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|d:\\microsoft\\c#\\codes\\oops\\fileds\\readonlyfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|solutionrelative:fileds\\readonlyfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|d:\\microsoft\\c#\\codes\\oops\\fileds\\constantfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|solutionrelative:fileds\\constantfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|D:\\Microsoft\\C#\\Codes\\OOPS\\fileds\\staticfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|solutionrelative:fileds\\staticfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A94FCF9-3BC6-4F19-B04F-65A69B494575}|..\\Public_Class_Demo_ClassLibraries\\Public_Class_Demo_ClassLibraries.csproj|d:\\microsoft\\c#\\codes\\public_class_demo_classlibraries\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|d:\\microsoft\\c#\\codes\\oops\\fileds\\acessmodifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS-Fields.csproj|solutionrelative:fileds\\acessmodifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS.csproj|D:\\Microsoft\\C#\\Codes\\OOPS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A94FCF9-3BC6-4F19-B04F-65A69B494575}|..\\Public_Class_Demo_ClassLibraries\\Public_Class_Demo_ClassLibraries.csproj|d:\\microsoft\\c#\\codes\\public_class_demo_classlibraries\\products_fields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS.csproj|D:\\Microsoft\\C#\\Codes\\OOPS\\fileds\\readandretrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00502132-06FC-47AC-9364-A10874B95C49}|OOPS.csproj|solutionrelative:fileds\\readandretrive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A94FCF9-3BC6-4F19-B04F-65A69B494575}|..\\Public_Class_Demo_ClassLibraries\\Public_Class_Demo_ClassLibraries.csproj|d:\\microsoft\\c#\\codes\\public_class_demo_classlibraries\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadOnlyFields.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ReadOnlyFields.cs",
+              "RelativeDocumentMoniker": "Fileds\\ReadOnlyFields.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ReadOnlyFields.cs",
+              "RelativeToolTip": "Fileds\\ReadOnlyFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:43:22.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstantFields.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ConstantFields.cs",
+              "RelativeDocumentMoniker": "Fileds\\ConstantFields.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ConstantFields.cs",
+              "RelativeToolTip": "Fileds\\ConstantFields.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:29:40.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Public_Class_Demo_ClassLibraries\\Student.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Student.cs",
+              "RelativeToolTip": "..\\Public_Class_Demo_ClassLibraries\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:47:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticFields.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\StaticFields.cs",
+              "RelativeDocumentMoniker": "Fileds\\StaticFields.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\StaticFields.cs",
+              "RelativeToolTip": "Fileds\\StaticFields.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:47:28.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcessModifiers.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\AcessModifiers.cs",
+              "RelativeDocumentMoniker": "Fileds\\AcessModifiers.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\AcessModifiers.cs",
+              "RelativeToolTip": "Fileds\\AcessModifiers.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:19:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadAndRetrive.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ReadAndRetrive.cs",
+              "RelativeDocumentMoniker": "Fileds\\ReadAndRetrive.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Fileds\\ReadAndRetrive.cs",
+              "RelativeToolTip": "Fileds\\ReadAndRetrive.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T12:07:01.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products_Fields.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Products_Fields.cs",
+              "RelativeDocumentMoniker": "..\\Public_Class_Demo_ClassLibraries\\Products_Fields.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Products_Fields.cs",
+              "RelativeToolTip": "..\\Public_Class_Demo_ClassLibraries\\Products_Fields.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:58:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Public_Class_Demo_ClassLibraries\\Customer.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\Public_Class_Demo_ClassLibraries\\Customer.cs",
+              "RelativeToolTip": "..\\Public_Class_Demo_ClassLibraries\\Customer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T11:17:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwGIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:52:53.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Microsoft\C#\Codes\OOPS-Properties\bin\Debug\OOPS-Properties.exe.config
+D:\Microsoft\C#\Codes\OOPS-Properties\bin\Debug\OOPS-Properties.exe
+D:\Microsoft\C#\Codes\OOPS-Properties\bin\Debug\OOPS-Properties.pdb
+D:\Microsoft\C#\Codes\OOPS-Properties\obj\Debug\OOPS-Properties.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\OOPS-Properties\obj\Debug\OOPS-Properties.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\OOPS-Properties\obj\Debug\OOPS-Properties.exe
+D:\Microsoft\C#\Codes\OOPS-Properties\obj\Debug\OOPS-Properties.pdb

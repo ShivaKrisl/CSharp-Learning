@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS-Fields", "OOPS-Fields.csproj", "{00502132-06FC-47AC-9364-A10874B95C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Public_Class_Demo_ClassLibraries", "..\Public_Class_Demo_ClassLibraries\Public_Class_Demo_ClassLibraries.csproj", "{9A94FCF9-3BC6-4F19-B04F-65A69B494575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00502132-06FC-47AC-9364-A10874B95C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00502132-06FC-47AC-9364-A10874B95C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00502132-06FC-47AC-9364-A10874B95C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00502132-06FC-47AC-9364-A10874B95C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A94FCF9-3BC6-4F19-B04F-65A69B494575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A94FCF9-3BC6-4F19-B04F-65A69B494575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A94FCF9-3BC6-4F19-B04F-65A69B494575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A94FCF9-3BC6-4F19-B04F-65A69B494575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770A5F12-76E9-4390-B877-8D96AE3FE174}
+	EndGlobalSection
+EndGlobal

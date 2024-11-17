@@ -1,0 +1,6 @@
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\bin\Debug\Public_Class_Demo_ClassLibraries.dll
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\bin\Debug\Public_Class_Demo_ClassLibraries.pdb
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\obj\Debug\Public_Class_Demo_ClassLibraries.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\obj\Debug\Public_Class_Demo_ClassLibraries.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\obj\Debug\Public_Class_Demo_ClassLibraries.dll
+D:\Microsoft\C#\Codes\Public_Class_Demo_ClassLibraries\obj\Debug\Public_Class_Demo_ClassLibraries.pdb

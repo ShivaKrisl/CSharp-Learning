@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}|OOPS-Methods.csproj|d:\\microsoft\\c#\\codes\\oops-methods\\methods\\staticlocalfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}|OOPS-Methods.csproj|solutionrelative:methods\\staticlocalfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}|OOPS-Methods.csproj|D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}|OOPS-Methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticLocalFunctions.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\Methods\\StaticLocalFunctions.cs",
+              "RelativeDocumentMoniker": "Methods\\StaticLocalFunctions.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\Methods\\StaticLocalFunctions.cs",
+              "RelativeToolTip": "Methods\\StaticLocalFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:56:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS-Methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:12:51.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

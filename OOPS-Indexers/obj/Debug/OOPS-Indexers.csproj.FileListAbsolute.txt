@@ -1,0 +1,10 @@
+D:\Microsoft\C#\Codes\OOPS-Indexers\bin\Debug\OOPS-Indexers.exe.config
+D:\Microsoft\C#\Codes\OOPS-Indexers\bin\Debug\OOPS-Indexers.exe
+D:\Microsoft\C#\Codes\OOPS-Indexers\bin\Debug\OOPS-Indexers.pdb
+D:\Microsoft\C#\Codes\OOPS-Indexers\bin\Debug\ClassLibrary_For_Indexers.dll
+D:\Microsoft\C#\Codes\OOPS-Indexers\bin\Debug\ClassLibrary_For_Indexers.pdb
+D:\Microsoft\C#\Codes\OOPS-Indexers\obj\Debug\OOPS-Indexers.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\OOPS-Indexers\obj\Debug\OOPS-Indexers.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\OOPS-Indexers\obj\Debug\OOPS-Ind.F83F2580.Up2Date
+D:\Microsoft\C#\Codes\OOPS-Indexers\obj\Debug\OOPS-Indexers.exe
+D:\Microsoft\C#\Codes\OOPS-Indexers\obj\Debug\OOPS-Indexers.pdb

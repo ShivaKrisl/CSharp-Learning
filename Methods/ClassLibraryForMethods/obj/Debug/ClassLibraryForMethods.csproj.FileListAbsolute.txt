@@ -1,0 +1,6 @@
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\bin\Debug\ClassLibraryForMethods.dll
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\bin\Debug\ClassLibraryForMethods.pdb
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\obj\Debug\ClassLibraryForMethods.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\obj\Debug\ClassLibraryForMethods.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\obj\Debug\ClassLibraryForMethods.dll
+D:\Microsoft\C#\Codes\ClassLibraryForMethods\obj\Debug\ClassLibraryForMethods.pdb

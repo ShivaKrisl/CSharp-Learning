@@ -1,0 +1,10 @@
+D:\Microsoft\C#\Codes\OOPS\bin\Debug\OOPS.exe.config
+D:\Microsoft\C#\Codes\OOPS\bin\Debug\OOPS.exe
+D:\Microsoft\C#\Codes\OOPS\bin\Debug\OOPS.pdb
+D:\Microsoft\C#\Codes\OOPS\bin\Debug\Public_Class_Demo_ClassLibraries.dll
+D:\Microsoft\C#\Codes\OOPS\bin\Debug\Public_Class_Demo_ClassLibraries.pdb
+D:\Microsoft\C#\Codes\OOPS\obj\Debug\OOPS-Fields.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\OOPS\obj\Debug\OOPS-Fields.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\OOPS\obj\Debug\OOPS-Fie.7625F88A.Up2Date
+D:\Microsoft\C#\Codes\OOPS\obj\Debug\OOPS.exe
+D:\Microsoft\C#\Codes\OOPS\obj\Debug\OOPS.pdb

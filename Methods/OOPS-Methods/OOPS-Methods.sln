@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS-Methods", "OOPS-Methods.csproj", "{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryForMethods", "..\ClassLibraryForMethods\ClassLibraryForMethods.csproj", "{08AAC0D1-1450-4BCB-B0F1-FEEEE847FA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9A0D2C-93DD-44F5-BC18-43CD424AD7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AAC0D1-1450-4BCB-B0F1-FEEEE847FA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AAC0D1-1450-4BCB-B0F1-FEEEE847FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AAC0D1-1450-4BCB-B0F1-FEEEE847FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AAC0D1-1450-4BCB-B0F1-FEEEE847FA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FBFCDF7-AC8F-4B8D-9E1A-A98815A6D290}
+	EndGlobalSection
+EndGlobal
