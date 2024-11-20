@@ -1,0 +1,6 @@
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\bin\Debug\ClassLibrary_For_Abstraction.dll
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\bin\Debug\ClassLibrary_For_Abstraction.pdb
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\obj\Debug\ClassLibrary_For_Abstraction.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\obj\Debug\ClassLibrary_For_Abstraction.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\obj\Debug\ClassLibrary_For_Abstraction.dll
+D:\Microsoft\C#\Codes\ClassLibrary_For_Abstraction\obj\Debug\ClassLibrary_For_Abstraction.pdb

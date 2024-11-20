@@ -1,0 +1,10 @@
+D:\Microsoft\C#\Codes\OOPS-Abstraction\bin\Debug\OOPS-Abstraction.exe.config
+D:\Microsoft\C#\Codes\OOPS-Abstraction\bin\Debug\OOPS-Abstraction.exe
+D:\Microsoft\C#\Codes\OOPS-Abstraction\bin\Debug\OOPS-Abstraction.pdb
+D:\Microsoft\C#\Codes\OOPS-Abstraction\bin\Debug\ClassLibrary_For_Abstraction.dll
+D:\Microsoft\C#\Codes\OOPS-Abstraction\bin\Debug\ClassLibrary_For_Abstraction.pdb
+D:\Microsoft\C#\Codes\OOPS-Abstraction\obj\Debug\OOPS-Abstraction.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\OOPS-Abstraction\obj\Debug\OOPS-Abstraction.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\OOPS-Abstraction\obj\Debug\OOPS-Abs.FCFE9271.Up2Date
+D:\Microsoft\C#\Codes\OOPS-Abstraction\obj\Debug\OOPS-Abstraction.exe
+D:\Microsoft\C#\Codes\OOPS-Abstraction\obj\Debug\OOPS-Abstraction.pdb

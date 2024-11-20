@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft\\C#\\Codes\\OOPS-Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{481FF0FF-391F-4C6A-A660-D18D1E697B27}|OOPS-Abstraction.csproj|d:\\microsoft\\c#\\codes\\oops-abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481FF0FF-391F-4C6A-A660-D18D1E697B27}|OOPS-Abstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46FE72-770D-4441-9CF9-48A78F817366}|..\\ClassLibrary_For_Abstraction\\ClassLibrary_For_Abstraction.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_abstraction\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46FE72-770D-4441-9CF9-48A78F817366}|..\\ClassLibrary_For_Abstraction\\ClassLibrary_For_Abstraction.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_abstraction\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE46FE72-770D-4441-9CF9-48A78F817366}|..\\ClassLibrary_For_Abstraction\\ClassLibrary_For_Abstraction.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_abstraction\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Developer.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Abstraction\\Developer.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Developer.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Abstraction\\Developer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:26:37.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Abstraction\\Manager.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Manager.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Abstraction\\Manager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:08:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Abstraction\\Employee.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Abstraction\\Employee.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Abstraction\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:07:15.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS-Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS-Abstraction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:05:34.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
