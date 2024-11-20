@@ -1,0 +1,10 @@
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\bin\Debug\OOPS-Inheritence.exe.config
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\bin\Debug\OOPS-Inheritence.exe
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\bin\Debug\OOPS-Inheritence.pdb
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\bin\Debug\ClassLibrary_For_Inheritence_Demo.dll
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\bin\Debug\ClassLibrary_For_Inheritence_Demo.pdb
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\obj\Debug\OOPS-Inheritence.csproj.AssemblyReference.cache
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\obj\Debug\OOPS-Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\obj\Debug\OOPS-Inh.90648553.Up2Date
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\obj\Debug\OOPS-Inheritence.exe
+C:\Users\SHIVA KRISHNA\source\repos\OOPS-Inheritence\obj\Debug\OOPS-Inheritence.pdb

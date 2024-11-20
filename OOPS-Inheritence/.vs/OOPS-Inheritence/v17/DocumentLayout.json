@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\OOPS-Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8E9A6F-C8EB-483C-B6EF-DF42BF94A92D}|OOPS-Inheritence.csproj|C:\\Users\\SHIVA KRISHNA\\source\\repos\\OOPS-Inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8E9A6F-C8EB-483C-B6EF-DF42BF94A92D}|OOPS-Inheritence.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1CF5BD-BF89-4907-9B23-492A2B57EB77}|..\\ClassLibrary_For_Inheritence_Demo\\ClassLibrary_For_Inheritence_Demo.csproj|c:\\users\\shiva krishna\\source\\repos\\classlibrary_for_inheritence_demo\\methodoverriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1CF5BD-BF89-4907-9B23-492A2B57EB77}|..\\ClassLibrary_For_Inheritence_Demo\\ClassLibrary_For_Inheritence_Demo.csproj|c:\\users\\shiva krishna\\source\\repos\\classlibrary_for_inheritence_demo\\hierarchical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hierarchical.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\ClassLibrary_For_Inheritence_Demo\\Hierarchical.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Inheritence_Demo\\Hierarchical.cs",
+              "ToolTip": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\ClassLibrary_For_Inheritence_Demo\\Hierarchical.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Inheritence_Demo\\Hierarchical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:10:15.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MethodOverriding.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\ClassLibrary_For_Inheritence_Demo\\MethodOverriding.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Inheritence_Demo\\MethodOverriding.cs",
+              "ToolTip": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\ClassLibrary_For_Inheritence_Demo\\MethodOverriding.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Inheritence_Demo\\MethodOverriding.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:03:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\OOPS-Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHIVA KRISHNA\\source\\repos\\OOPS-Inheritence\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:14:51.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
