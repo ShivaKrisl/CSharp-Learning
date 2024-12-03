@@ -1,0 +1,10 @@
+D:\Microsoft\C#\Codes\OOPS-Interfaces\bin\Debug\OOPS-Interfaces.exe.config
+D:\Microsoft\C#\Codes\OOPS-Interfaces\bin\Debug\OOPS-Interfaces.exe
+D:\Microsoft\C#\Codes\OOPS-Interfaces\bin\Debug\OOPS-Interfaces.pdb
+D:\Microsoft\C#\Codes\OOPS-Interfaces\bin\Debug\ClassLibrary_For_Interfaces.dll
+D:\Microsoft\C#\Codes\OOPS-Interfaces\bin\Debug\ClassLibrary_For_Interfaces.pdb
+D:\Microsoft\C#\Codes\OOPS-Interfaces\obj\Debug\OOPS-Interfaces.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\OOPS-Interfaces\obj\Debug\OOPS-Interfaces.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\OOPS-Interfaces\obj\Debug\OOPS-Int.37F6C976.Up2Date
+D:\Microsoft\C#\Codes\OOPS-Interfaces\obj\Debug\OOPS-Interfaces.exe
+D:\Microsoft\C#\Codes\OOPS-Interfaces\obj\Debug\OOPS-Interfaces.pdb

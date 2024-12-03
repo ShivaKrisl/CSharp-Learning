@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft\\C#\\Codes\\OOPS-Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\interfaceinheritence\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C80E5C9-F2EB-41F4-A1D1-B0A89496C1DD}|OOPS-Interfaces.csproj|D:\\Microsoft\\C#\\Codes\\OOPS-Interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C80E5C9-F2EB-41F4-A1D1-B0A89496C1DD}|OOPS-Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\multipleinheritence\\flyingcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\multipleinheritence\\iairvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\multipleinheritence\\iroadvechile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\interfaceinheritence\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B45136-B6DC-4100-AD88-64A653907765}|..\\ClassLibrary_For_Interfaces\\ClassLibrary_For_Interfaces.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_interfaces\\interfaceinheritence\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRoadVechile.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IRoadVechile.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IRoadVechile.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IRoadVechile.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IRoadVechile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:20:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAirVehicle.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IAirVehicle.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IAirVehicle.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IAirVehicle.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\IAirVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:20:21.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyingCar.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\FlyingCar.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\FlyingCar.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\MultipleInheritence\\FlyingCar.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\MultipleInheritence\\FlyingCar.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:20:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\Developer.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\Developer.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\Developer.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\Developer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:01:35.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IPerson.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IPerson.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IPerson.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:59:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IEmployee.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IEmployee.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_Interfaces\\InterfaceInheritence\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:59:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\OOPS-Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\OOPS-Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:57:41.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

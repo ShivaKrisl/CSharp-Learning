@@ -1,0 +1,6 @@
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\bin\Debug\ClassLibrary_For_Interfaces.dll
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\bin\Debug\ClassLibrary_For_Interfaces.pdb
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\obj\Debug\ClassLibrary_For_Interfaces.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\obj\Debug\ClassLibrary_For_Interfaces.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\obj\Debug\ClassLibrary_For_Interfaces.dll
+D:\Microsoft\C#\Codes\ClassLibrary_For_Interfaces\obj\Debug\ClassLibrary_For_Interfaces.pdb

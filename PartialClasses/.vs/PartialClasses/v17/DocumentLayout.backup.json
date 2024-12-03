@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft\\C#\\Codes\\PartialClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0654143-B1B7-4D00-8A81-72DC38121039}|PartialClasses.csproj|d:\\microsoft\\c#\\codes\\partialclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0654143-B1B7-4D00-8A81-72DC38121039}|PartialClasses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38096B72-D028-4692-BD18-B96D44CA793F}|..\\ClassLibrary_For_PartialClasses\\ClassLibrary_For_PartialClasses.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_partialclasses\\file3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38096B72-D028-4692-BD18-B96D44CA793F}|..\\ClassLibrary_For_PartialClasses\\ClassLibrary_For_PartialClasses.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_partialclasses\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38096B72-D028-4692-BD18-B96D44CA793F}|..\\ClassLibrary_For_PartialClasses\\ClassLibrary_For_PartialClasses.csproj|d:\\microsoft\\c#\\codes\\classlibrary_for_partialclasses\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File3.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File3.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_PartialClasses\\File3.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File3.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_PartialClasses\\File3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:33:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File2.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File2.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_PartialClasses\\File2.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File2.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_PartialClasses\\File2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:33:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File1.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary_For_PartialClasses\\File1.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\ClassLibrary_For_PartialClasses\\File1.cs",
+              "RelativeToolTip": "..\\ClassLibrary_For_PartialClasses\\File1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:30:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microsoft\\C#\\Codes\\PartialClasses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Microsoft\\C#\\Codes\\PartialClasses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:26:05.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

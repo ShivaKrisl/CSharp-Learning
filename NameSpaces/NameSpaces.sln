@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpaces", "NameSpaces.csproj", "{7065C47A-D4F1-4E17-94E5-74330BE1E672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_For_NameSpaces", "..\ClassLibrary_For_NameSpaces\ClassLibrary_For_NameSpaces.csproj", "{52FC7A06-4C8B-4165-908A-494A57E444A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7065C47A-D4F1-4E17-94E5-74330BE1E672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7065C47A-D4F1-4E17-94E5-74330BE1E672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7065C47A-D4F1-4E17-94E5-74330BE1E672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7065C47A-D4F1-4E17-94E5-74330BE1E672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52FC7A06-4C8B-4165-908A-494A57E444A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FC7A06-4C8B-4165-908A-494A57E444A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FC7A06-4C8B-4165-908A-494A57E444A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FC7A06-4C8B-4165-908A-494A57E444A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6F03AD-9472-44C6-BAA6-7F5AB83D9AC3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Microsoft\C#\Codes\PartialClasses\bin\Debug\PartialClasses.exe.config
+D:\Microsoft\C#\Codes\PartialClasses\bin\Debug\PartialClasses.exe
+D:\Microsoft\C#\Codes\PartialClasses\bin\Debug\PartialClasses.pdb
+D:\Microsoft\C#\Codes\PartialClasses\bin\Debug\ClassLibrary_For_PartialClasses.dll
+D:\Microsoft\C#\Codes\PartialClasses\bin\Debug\ClassLibrary_For_PartialClasses.pdb
+D:\Microsoft\C#\Codes\PartialClasses\obj\Debug\PartialClasses.csproj.AssemblyReference.cache
+D:\Microsoft\C#\Codes\PartialClasses\obj\Debug\PartialClasses.csproj.CoreCompileInputs.cache
+D:\Microsoft\C#\Codes\PartialClasses\obj\Debug\PartialC.CA07F676.Up2Date
+D:\Microsoft\C#\Codes\PartialClasses\obj\Debug\PartialClasses.exe
+D:\Microsoft\C#\Codes\PartialClasses\obj\Debug\PartialClasses.pdb

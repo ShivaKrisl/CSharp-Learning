@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses.csproj", "{B0654143-B1B7-4D00-8A81-72DC38121039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_For_PartialClasses", "..\ClassLibrary_For_PartialClasses\ClassLibrary_For_PartialClasses.csproj", "{38096B72-D028-4692-BD18-B96D44CA793F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0654143-B1B7-4D00-8A81-72DC38121039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0654143-B1B7-4D00-8A81-72DC38121039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0654143-B1B7-4D00-8A81-72DC38121039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0654143-B1B7-4D00-8A81-72DC38121039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38096B72-D028-4692-BD18-B96D44CA793F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38096B72-D028-4692-BD18-B96D44CA793F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38096B72-D028-4692-BD18-B96D44CA793F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38096B72-D028-4692-BD18-B96D44CA793F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B7C15CA-B98D-40A8-BBA8-1AA7ED8A3A66}
+	EndGlobalSection
+EndGlobal
